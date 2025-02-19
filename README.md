@@ -16,7 +16,7 @@ This repo contains files that have backups of my custom setup for my Android pho
     
 ## Screenshots
 
-![Home screen]()
+![Home screen](https://github.com/LayanJethwa/android-customisation/blob/main/screenshots/home-screen.jpeg)
 
-![Custom notification]()
+![Custom notification](https://github.com/LayanJethwa/android-customisation/blob/main/screenshots/notification.jpeg)
 
